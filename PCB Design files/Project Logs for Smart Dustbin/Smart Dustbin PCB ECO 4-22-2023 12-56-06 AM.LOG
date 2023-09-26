@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetAtmega328p_14 Pin=Ultrasonic 2-3
+Removed Pin From Net: NetName=NetAtmega328p_13 Pin=Ultrasonic_1-2
+Removed Pin From Net: NetName=NetAtmega328p_12 Pin=Ultrasonic_1-3
+Added Pin To Net: NetName=NetAtmega328p_14 Pin=Ultrasonic 2-2
+Added Pin To Net: NetName=NetAtmega328p_13 Pin=Ultrasonic 2-3
+Added Pin To Net: NetName=NetAtmega328p_12 Pin=Ultrasonic_1-2
+Added Pin To Net: NetName=NetAtmega328p_11 Pin=Atmega328p-11
+Added Pin To Net: NetName=NetAtmega328p_11 Pin=Ultrasonic_1-3
+Added Net: Name=NetAtmega328p_11

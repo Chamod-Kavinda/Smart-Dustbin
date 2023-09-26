@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Smart Dustbin.PrjPcb]
+   Generated File[Smart Dustbin.TXT]
+   Generated File[Smart Dustbin.LDP]
+   Generated File[Smart Dustbin.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:57:59 PM On 5/2/2023

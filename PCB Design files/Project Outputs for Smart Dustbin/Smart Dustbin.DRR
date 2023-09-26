@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Smart Dustbin.PcbDoc   5/2/2023  11:57:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Smart Dustbin.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.65mm (26mil)                                            Round             8         PTH        65.71mm (2.59inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        4.88mm (0.19inch)
+T3      0.8mm (31mil)                                             Round             6         PTH        44.70mm (1.76inch)
+T4      0.89mm (35mil)                                            Round             15        PTH        119.72mm (4.71inch)
+T5      0.9mm (35mil)                                             Round             30        PTH        118.04mm (4.65inch)
+T6      2mm (79mil)                                               Round             4         PTH        146.00mm (5.75inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              65
+
+Total Processing Time (hh:mm:ss) : 00:00:00

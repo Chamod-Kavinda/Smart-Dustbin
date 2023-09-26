@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetAtmega328p_16 Pin=R2-1
+Removed Pin From Net: NetName=NetAtmega328p_17 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=Servo motor-1
+Added Pin To Net: NetName=NetAtmega328p_16 Pin=R3-1
+Added Pin To Net: NetName=NetAtmega328p_17 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=Servo motor-3
+Added Pin To Net: NetName=NetAtmega328p_5 Pin=Atmega328p-5
+Added Pin To Net: NetName=NetAtmega328p_5 Pin=Servo motor-1
+Added Net: Name=NetAtmega328p_5
+Added Pin To Net: NetName=NetAtmega328p_15 Pin=Atmega328p-15
+Added Pin To Net: NetName=NetAtmega328p_15 Pin=R2-1
+Added Net: Name=NetAtmega328p_15
